@@ -1,0 +1,34 @@
+.App {
+  background-color: blue;
+  height: 100vh;
+}
+.main_area_and_side_bar{
+    background-color: brown;
+    display: flex;
+    height: 90vh;
+
+    
+}
+.promptbar{
+  background-color: rgb(245, 81, 81);
+}
+.sidebar{
+background-color: aqua;
+width: 30%;
+}
+
+.mainarea{
+background-color: blueviolet;
+width: 70%;
+}
+.devi_status{
+background-color: chartreuse;
+/* height: 10%; */
+}
+.Devi_logs{
+
+}
+
+
+
+
