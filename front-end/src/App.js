@@ -3,6 +3,7 @@ import DeviStatus from './components/DeviStatus';
 import Logs from './components/Logs';
 import MainArea from './components/MainArea';
 import PromptBar from './components/PromptBar';
+import Setting from './components/Setting';
 import SideBar from './components/SideBar';
 
 function App() {
@@ -21,6 +22,7 @@ function App() {
 
         <div className='sidebar'>
           <SideBar />
+          <Setting/>
         </div>
 
       </div>

@@ -1,7 +1,10 @@
 .promptbar-container{
-
+   
 }
 .input-rapper{
+    background-color: white;
     width: 100%;
     height: 40px
+
+    
 }
