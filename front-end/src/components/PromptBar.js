@@ -1,9 +1,12 @@
 import React from 'react'
+import './PromptBar.css'
 
 function PromptBar() {
   return (
-    <div>
-      Promptbar
+    <div className='promptbar-container'>
+
+      <input className='input-rapper' placeholder='Lets Engineer the World'></input>
+
     </div>
   )
 }
